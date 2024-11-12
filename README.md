@@ -69,7 +69,7 @@ This HTML code represents the structure of a simple quiz application, built usin
 
 This code outlines the basic structure of a JavaScript-based quiz application. It includes the layout, styling, and placeholders for dynamic content (questions and options). The functionality to handle user input, navigation, and displaying quiz data is expected to be implemented in the external script.js file. The use of Bootstrap ensures a responsive and attractive design, while jQuery helps with interactivity.
 
-![Screenshot 2024-11-12 141241](https://github.com/user-attachments/assets/efe0ac9d-e7f3-4d8d-833b-248a0e8c2939)
+![Screenshot 2024-11-12 141649](https://github.com/user-attachments/assets/71afd490-e118-4b2d-aac0-a3f96358f18b)
 
 ![Screenshot 2024-11-12 140017](https://github.com/user-attachments/assets/391cc3f1-42d9-424c-ac32-5ab1043017a0)
 
