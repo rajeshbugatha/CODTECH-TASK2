@@ -74,3 +74,4 @@ This code outlines the basic structure of a JavaScript-based quiz application. I
 ![Screenshot 2024-11-12 140017](https://github.com/user-attachments/assets/391cc3f1-42d9-424c-ac32-5ab1043017a0)
 
 ![screencapture-rajeshbugatha-github-io-CODTECH-TASK2-2024-11-12-14_02_27](https://github.com/user-attachments/assets/2fc45276-32e4-4525-a6cd-03e32eccb3e7)
+
